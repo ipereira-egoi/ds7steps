@@ -1,0 +1,42 @@
+DS7Steps
+
+
+Weka - boa ferramenta
+
+RapidMiner - concorrência, mas preciso instalar
+
+R - tem as bibliotecas todas
+
+Octave - Tipo Matlab mas gratuito
+
+
+Livros:
+- Machine Learning for Dummies
+- The Master Algorithm (Pedro Domingos)
+- Extração de Conhecimento de Dados – Data Mining
+
+
+
+Clustering users:
+- Define features (age, location, etc)
+- Group
+- Discover prominent feature
+
+
+
+Generalization is the objective of Machine Learning?
+
+K-fold cross validation
+
+
+Open Linked Data
+
+
+
+ver Pattern Mining
+
+
+Apache Mahout
+
+
+
